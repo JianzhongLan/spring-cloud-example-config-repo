@@ -3,4 +3,4 @@ server:
 neo4j:
   uri: http://localhost:7474/
   username: neo4j
-  password: root
+  password: 123456
