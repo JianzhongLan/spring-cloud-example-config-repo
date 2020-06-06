@@ -1,5 +1,5 @@
 server:
-  port: 8003
+  port: 6003
 neo4j:
   uri: http://localhost:7474/
   username: neo4j
